@@ -1,4 +1,4 @@
-# website-freelance-marketplace
+# E-Freelancing Job Website
 A simple project of a website of freelance marketplace using HTML, CSS, bootstrap, php and Mysql.
 
 
@@ -11,5 +11,3 @@ Follow the below steps:
  
 You need some basic knowledge of Xampp and mysql to run this properly.
 If you need any help or have any suggestion, feel free to write an email or send me a message.
- email: rahamatelahi2@gmail.com
- facebook: https://www.facebook.com/rrrupom
